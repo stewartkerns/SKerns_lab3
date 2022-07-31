@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638fdf7-9edc-4e9f-80cb-5f9bec78f2ed" name="Changes" comment="Finished main code of Lab3 and GuessGame, need to add comments">
+    <list default="true" id="3638fdf7-9edc-4e9f-80cb-5f9bec78f2ed" name="Changes" comment="Wrote comments for GuessGame">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SKerns_lab3/GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SKerns_lab3/GuessGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SKerns_lab3/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SKerns_lab3/Lab3.java" afterDir="false" />
@@ -72,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659220154811</updated>
-      <workItem from="1659220156234" duration="9179000" />
+      <workItem from="1659220156234" duration="11822000" />
     </task>
     <task id="LOCAL-00001" summary="Finished main code of Lab3 and GuessGame, need to add comments">
       <created>1659229011673</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659229011673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Wrote comments for GuessGame">
+      <created>1659231216980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659231216980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished main code of Lab3 and GuessGame, need to add comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished main code of Lab3 and GuessGame, need to add comments" />
+    <MESSAGE value="Wrote comments for GuessGame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote comments for GuessGame" />
   </component>
 </project>

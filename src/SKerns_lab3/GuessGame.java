@@ -7,6 +7,11 @@ package SKerns_lab3;
 
 import java.util.Random;       //import the Random class
 
+/**
+ * This class creates methods and fields to allow a guessing game to be made
+ * between a set of values; the user can then guess until they get the right
+ * answer
+ */
 public class GuessGame {
     //create a field for the range's minimum
     private int rangeMinimum;
