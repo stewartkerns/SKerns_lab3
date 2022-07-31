@@ -1,3 +1,8 @@
+/*
+ * Stewart Kerns
+ * CPSC 5002, Seattle University
+ * This is free and unencumbered software released into the public domain.
+ */
 package SKerns_lab3;
 
 import java.util.Scanner;
@@ -19,10 +24,6 @@ public class Lab3 {
             System.out.println();
             do {
                 guessBool = game.guess(guessNum(keyboardIn, game));
-//                if (guessBool) {
-//                    System.out.println("That's correct!\nYou guessed " +
-//                           game.getCount() + " times.");
-//                }
             } while (!guessBool);
             System.out.println("\nThat's correct!\nYou guessed " +
                     game.getCount() + " times.");
